@@ -1,0 +1,45 @@
+{
+  "name": "@stdlib/stats-base-snanvariance",
+  "version": "0.0.0",
+  "description": "Calculate the variance of a single-precision floating-point strided array ignoring NaN values.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-snanvariance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "variance",
+    "var",
+    "deviation",
+    "dispersion",
+    "sample variance",
+    "unbiased",
+    "stdev",
+    "std",
+    "standard deviation",
+    "strided",
+    "strided array",
+    "typed",
+    "array",
+    "float32",
+    "float",
+    "single",
+    "float32array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
