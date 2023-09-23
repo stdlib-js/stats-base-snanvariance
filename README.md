@@ -110,7 +110,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 ## Usage
 
 ```javascript
-import snanvariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanvariance@deno/mod.js';
+import snanvariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanvariance@v0.1.0-deno/mod.js';
 ```
 
 #### snanvariance( N, correction, x, stride )
@@ -218,7 +218,7 @@ var v = snanvariance.ndarray( N, 1, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import snanvariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanvariance@deno/mod.js';
+import snanvariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanvariance@v0.1.0-deno/mod.js';
 
 var x;
 var i;
