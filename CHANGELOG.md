@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-21)
+## Unreleased (2025-07-17)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`599039a`](https://github.com/stdlib-js/stdlib/commit/599039a0832889aaec19083e6d918e519edddb00) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9482ada`](https://github.com/stdlib-js/stdlib/commit/9482adac1b21fa0ea2784fce177da803c647e8bb) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`79bdf8d`](https://github.com/stdlib-js/stdlib/commit/79bdf8de999eb7f782005ef13e3d7ad471da2325) - **chore:** fix C lint errors [(#7053)](https://github.com/stdlib-js/stdlib/pull/7053) _(by zhanggy)_
 -   [`8477e77`](https://github.com/stdlib-js/stdlib/commit/8477e77f71a4560cdf0365c85eedef29b007cc5c) - **refactor:** update paths _(by Aayush Khanna)_
