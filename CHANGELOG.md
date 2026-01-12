@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-17)
+## Unreleased (2026-01-12)
 
 <section class="issues">
 
@@ -24,9 +24,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`599039a`](https://github.com/stdlib-js/stdlib/commit/599039a0832889aaec19083e6d918e519edddb00) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9482ada`](https://github.com/stdlib-js/stdlib/commit/9482adac1b21fa0ea2784fce177da803c647e8bb) - **refactor:** update paths _(by Gururaj Gurram)_
--   [`79bdf8d`](https://github.com/stdlib-js/stdlib/commit/79bdf8de999eb7f782005ef13e3d7ad471da2325) - **chore:** fix C lint errors [(#7053)](https://github.com/stdlib-js/stdlib/pull/7053) _(by zhanggy)_
+-   [`79bdf8d`](https://github.com/stdlib-js/stdlib/commit/79bdf8de999eb7f782005ef13e3d7ad471da2325) - **chore:** fix C lint errors [(#7053)](https://github.com/stdlib-js/stdlib/pull/7053) _(by Geo Daoyu)_
 -   [`8477e77`](https://github.com/stdlib-js/stdlib/commit/8477e77f71a4560cdf0365c85eedef29b007cc5c) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`f7a3247`](https://github.com/stdlib-js/stdlib/commit/f7a3247a9b386b5abfb879dfaec6943ff332c80b) - **refactor:** update `stats/base/snanvariance` native addon from C++ to C [(#4471)](https://github.com/stdlib-js/stdlib/pull/4471) _(by Dhruv Arvind Singh)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -49,9 +50,9 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
+-   Geo Daoyu
 -   Gururaj Gurram
 -   Philipp Burckhardt
--   zhanggy
 
 </section>
 
